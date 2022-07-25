@@ -7,6 +7,6 @@
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkan-pirmani&layout=compact&hide=javascript,html,CSS&langs_count=8" />
 </a>
-<a href="">
+<a href="" style="text-align:center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashkan-pirmani" />
 </a>
