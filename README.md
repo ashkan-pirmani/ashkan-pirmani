@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:ashkan_pirmani@outlook.com">
-<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=outlook&logoColor=white" alt="outlook" />
+<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=email&logoColor=white" alt="outlook" />
 </a>
 </div>
 
