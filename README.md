@@ -23,3 +23,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkan-pirmani&layout=compact&hide=javascript,html,CSS&langs_count=8" />
 </a>
 </div>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashkan-pirmani)](https://git.io/streak-stats)
