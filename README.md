@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-(https://github-readme-stats.vercel.app/api?username=ashkan-pirmani&count_private=true&&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashkan-pirmani&count_private=true&&show_icons=true)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=ashkan-pirmani&layout=compact&hide=javascript,html,CSS&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashkan-pirmani&layout=compact&hide=javascript,html,CSS&langs_count=8)
 
 
-(https://github-readme-stats.vercel.app/api/wakatime?username=ashkan-pirmani)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashkan-pirmani)
