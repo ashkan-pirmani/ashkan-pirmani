@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=7000&color=134155&lines=Hi++there+%F0%9F%91%8B++Welcome%2C;My+Name+is+Ashkan!;A+PhD+student%2C;Happy+to+have+you+here!;Feel+free+for+reaching+out.;I+am+always+around+%F0%9F%98%8A;https%3A%2F%2Fashkan-pirmani.github.io)](https://ashkan-pirmani.github.io)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=7000&color=134155&lines=Hi++there+%F0%9F%91%8B++Welcome%2C;My+Name+is+Ashkan!;A+PhD+student%2C;Happy+to+have+you+here!;Feel+free+for+reaching+out.;I+am+always+around+%F0%9F%98%8A;Click+on+me)](https://ashkan-pirmani.github.io)
 
 ### About Me
 
