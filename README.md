@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-
+<!--END_SECTION:waka-->
 name: Waka Readme
 
 on:
@@ -17,7 +17,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-<!--END_SECTION:waka-->
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=7000&color=134155&lines=Hi++there+%F0%9F%91%8B++Welcome%2C;My+Name+is+Ashkan!;A+PhD+student%2C;Happy+to+have+you+here!;Feel+free+for+reaching+out.;I+am+always+around+%F0%9F%98%8A;https%3A%2F%2Fashkan-pirmani.github.io)](https://ashkan-pirmani.github.io)
 
