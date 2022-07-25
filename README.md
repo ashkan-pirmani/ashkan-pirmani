@@ -47,4 +47,22 @@
   <table>
 <div>
 
+  
+  
+  <div align="center">
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/ashkan-pirmani">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkan-pirmani&layout=compact&hide=javascript,html,CSS&langs_count=8" alt="Ashkan's Language Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  <table>
+<div>
+  
 ---
