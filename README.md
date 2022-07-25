@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=134155&center=true&vCenter=true&lines=Hi+there+%F0%9F%91%8B+Welcome%2C+My+Name+is+Ashkan;A+PhD+student;Happy+to+have+you+here!;Feel+free+for+reaching+out;I+am+always+around+%F0%9F%98%8A)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5010&color=134155&lines=Hi++there+%F0%9F%91%8B++Welcome%2C+My+Name+is+Ashkan;A+PhD+student;Happy+to+have+you+here!;Feel+free+for+reaching+out;I+am+always+around+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 <!--
 **ashkan-pirmani/ashkan-pirmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
