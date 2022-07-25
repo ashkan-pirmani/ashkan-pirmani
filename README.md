@@ -5,10 +5,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashkan-pirmani&count_private=true&&show_icons=true" />
 </a>
 
+<br/>
+
 <a href="" style="text-align:center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashkan-pirmani" />
 </a>
 
+<br/>
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkan-pirmani&layout=compact&hide=javascript,html,CSS&langs_count=8" />
