@@ -24,7 +24,7 @@
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/ashkan-pirmani">
-            <img src="https://github-readme-stats.vercel.app/api?username=ashkan-pirmani&count_private=true&&show_icons=true" alt="Jeffrey's Language Stats" vertical-align="middle"/>
+            [![Ashkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashkan-pirmani)]  
           </a>
         </div>
         </td>
